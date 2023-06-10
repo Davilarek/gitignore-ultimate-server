@@ -4,4 +4,4 @@
 *.iml
 
 # Project
-/target
+/node_modules
