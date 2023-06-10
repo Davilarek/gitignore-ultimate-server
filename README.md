@@ -10,13 +10,7 @@ This server implements the [Language Server Protocol](https://microsoft.github.i
 
 ## Clients available
 
-* [Gitignore Ultimate for VSCode](https://github.com/quentinguidee/gitignore-ultimate-vscode) (`>=0.2.0`)
-
-## Build the project
-
-```bash
-cargo build 
-```
+* [Gitignore Ultimate for VSCode](https://github.com/Davilarek/gitignore-ultimate-vscode) (`>=0.2.0`)
 
 ## License
 
